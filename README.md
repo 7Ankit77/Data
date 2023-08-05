@@ -1,5 +1,5 @@
 # Data Analyst
-
+Hey there! I’m a Data Analyst based in the Metropolitan New York area. Below you can find some of my work and my case study which includes everything I've worked on so far and gets updated as I do more projects. My About Me section contains my GitHub where all my work lies along with, my resume. 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
