@@ -15,5 +15,5 @@ On my free time you can catch me in the gym, preparing my meals for the week or 
 ## Contact and Resume
 - Email: ankitkumarbusiness489@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/ankit-kumar123/) (click the link)
-- My resume: 
+- [My resume](https://drive.google.com/file/d/1g5Yu_5ZF7RF6K-KgT2vGtNj8LHeEzfIC/view?usp=drive_link) (click the link) 
 
