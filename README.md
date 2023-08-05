@@ -8,8 +8,10 @@
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## About Me
--I'm making a career change from insurance selling to Data Analytics. With a background in both in-person and over the phone sales, coupled with a bachelor's degree in cybersecurity and IT, I bring a unique blend of skills to the table. I have honed my communication and interpersonal abilities through my sales experience, while my cybersecurity knowledge has cultivated a strong analytical mindset.
+I'm making a career change from insurance selling to Data Analytics. With a background in both in-person and over the phone sales, coupled with a bachelor's degree in cybersecurity and IT, I bring a unique blend of skills to the table. I have honed my communication and interpersonal abilities through my sales experience, while my cybersecurity knowledge has cultivated a strong analytical mindset.
+
 As a data analyst, my goal is to contribute my expertise to the insurance or health field preferably. I have a lot of domain knowledge as well due to me needing to be licensed to sell insurance.  I am passionate about extracting valuable insights from complex data sets and utilizing them to drive data-driven decision-making.
+
 On my free time you can catch me in the gym, preparing my meals for the week or reading about nutrition! 
 
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
